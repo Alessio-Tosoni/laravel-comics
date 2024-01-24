@@ -1,0 +1,10 @@
+<span>CHARACTERS</span>
+<span>COMICS</span>
+<span>MOVIES</span>
+<span>TV</span>
+<span>GAMES</span>
+<span>COLLECTIBLES</span>
+<span>VIDEOS</span>
+<span>FANS</span>
+<span>NEWS</span>
+<span>SHOP</span>
